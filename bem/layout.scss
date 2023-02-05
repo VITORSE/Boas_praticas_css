@@ -1,0 +1,12 @@
+.container {
+    max-width: 640px;
+    width: 100%;
+    margin: 56px auto;
+    
+}
+
+.produtos {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-column-gap: 1%;
+}
